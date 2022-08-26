@@ -1,7 +1,7 @@
 const CONFIG = {
   // ================================基础配置 - 无需修改================================
   // 和风天气API
-  HEFENG_API_KEY: "6ab01632e2b44936b4951d8019007eab",
+  HEFENG_API_KEY: "7b25e1aad0b7467a8577969b809021d9",
 
   // ================================高级配置 - 需要修改================================
 
@@ -12,7 +12,7 @@ const CONFIG = {
   APP_SECRET: "b0bba54753a59c9ef012bb29bcb2ac72",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "hHFo2kk59WI7Ef8R2Ry0_IMQWbUlWIPLfJd1lIkMkuo",
+  TEMPLATE_ID: "yQyRzlNLLVi-2Dx9zYvZ_DWI2KCSJ4a8wRcbQ9mO6qU",
 
   // 天行API的key
   TXApiKey: "806d907b3fb2e1bdee40bfe6798316fb ",
@@ -21,7 +21,7 @@ const CONFIG = {
   user: [
     {
       // 男(女)朋友的名字（或昵称或网名）
-      userName: "小沐沐吖",
+      userName: "早上好~",
       // 用户列表的`微信号`
       userId: "oGGI-5iHADh6uDBZh1rsgJMC8D3o",
       // 星座
