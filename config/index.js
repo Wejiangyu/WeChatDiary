@@ -6,16 +6,16 @@ const CONFIG = {
   // ================================高级配置 - 需要修改================================
 
   // 微信公众号的appID
-  APP_ID: "wx8cce380b885eda7b",
+  APP_ID: "wx200ac1eb88d7c478",
 
   // 微信公众号的appsecret
-  APP_SECRET: "ed4be85c5b4c9ec20ff6a4573c1c0b9e",
+  APP_SECRET: "b0bba54753a59c9ef012bb29bcb2ac72",
 
   // 微信公众号的模板ID
   TEMPLATE_ID: "hHFo2kk59WI7Ef8R2Ry0_IMQWbUlWIPLfJd1lIkMkuo",
 
   // 天行API的key
-  TXApiKey: "96fd738b99e30ffa1014dad845cd0764",
+  TXApiKey: "806d907b3fb2e1bdee40bfe6798316fb ",
 
   // 用户列表 可配置多个用户
   user: [
@@ -23,13 +23,13 @@ const CONFIG = {
       // 男(女)朋友的名字（或昵称或网名）
       userName: "小沐沐吖",
       // 用户列表的`微信号`
-      userId: "ouvDW5kPNhzombB3FdIeahEeM6CI",
+      userId: "oGGI-5iHADh6uDBZh1rsgJMC8D3o",
       // 星座
       star: "摩羯座",
       // 生日 - 格式：08-22
       birthday: "01-28",
       // 城市 - 格式：支持省市县区
-      city: "夏邑县",
+      city: "深圳",
     },
   ],
 
