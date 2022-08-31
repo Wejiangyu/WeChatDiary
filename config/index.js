@@ -21,9 +21,9 @@ const CONFIG = {
   user: [
     {
       // 男(女)朋友的名字（或昵称或网名）
-      userName: "早上好~",
+      userName: "牧牧",
       // 用户列表的`微信号`
-      userId: "oGGI-5iHADh6uDBZh1rsgJMC8D3o",
+      userId: "oGGI-5jIMaF8UObxtyIA1EqjAwbc",
       // 星座
       star: "摩羯座",
       // 生日 - 格式：08-22
@@ -37,7 +37,7 @@ const CONFIG = {
   tourism: "2022-12-12",
 
   // 恋爱纪念日 - 格式：2022-05-20
-  loveDay: "2022-05-20",
+  loveDay: "2022-08-31",
 
   // ================================功能配置 - 可选修改================================
 
