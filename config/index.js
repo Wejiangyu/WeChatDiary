@@ -55,11 +55,11 @@ const CONFIG = {
     // 健康小提示
     healthtip: true,
     // 毒鸡汤
-    duJiTang: true,
+    duJiTang: false,
     // 早安心语
     zaoAn: true,
     // 晚安心语
-    wanAn: true,
+    wanAn: false,
     // 彩虹屁
     caiHongPi: true,
   },
